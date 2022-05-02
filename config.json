@@ -1,0 +1,38 @@
+{
+    "mysql": {
+        "database": "juniinhoclearv1", 
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "port": "3306"
+    },
+    "bot": {
+        "token": "OTY4MjI1NjUwMTYwODYxMjU1.YmbwZw.Rjl4Kn2xvIvMuu8hz9uHtYjOuAs", 
+        "prefix": "!"
+    },
+    "whitelist": {
+        "canal_mande_seu_id": "968640683957166110",
+        "cargo_sem_whitelist": "967630956276109332",
+        "cargo_com_whitelist": "967630791297343538",
+        "channellog": "968700234731499550",
+        "emoji_aceitar": "✅", 
+        "emoji_recusar": "❌"
+    },
+    "adm": {
+        "channellogaddcar": "968699979625545788",
+        "channellogban": "968699979625545788",
+        "channellogunban": "968699979625545788",
+        "channellogbank": "968699979625545788",
+        "channellogunwl": "968699979625545788",
+        "channelloguser": "968699979625545788"
+    },
+    "name": "Full Studio",
+    "Channel": "",
+    "Embed": {
+        "color": "RANDOM",
+        "setImage": "https://cdn.discordapp.com/attachments/959626622657527809/964604234454667324/logofullstudiobranco.png",
+        "author": "https://cdn.discordapp.com/emojis/805844541071556619.gif?size=128&quality=lossless"
+    }
+}
+
+

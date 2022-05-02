@@ -1,0 +1,36 @@
+----------------------------------------PTBR-------------------------------------------
+
+OI para voce ligar o bot use o cmd install para abaixar as dependencias.
+Use esse site para pegar o TOKEN do seu bot use esse site:https://discord.com/developers/applications
+
+VA EM CONFIG.JSON E COLOQUE O NOME DA SUA DATABASE E SENHA SE TIVER;
+
+O PREFIX SE VOÇE QUISER MUDAR;
+
+COLOQUE AS CATEGORIAS, CANAL DO SEU SERVIDOR EM WHITELIST;
+
+EM ADM COLOQUE OS CANAIS DE LOGS;
+
+COLOQUE A IMAGE DO SEU SERVIDOR, NOME, COR DA EMBED, E O AHUTOR.
+
+npm init
+npm i discord.js
+
+----------------------------------------Ingles--------------------------------
+
+
+
+OI for you to turn on the bot use the cmd install to lower the dependencias.
+Use this site to get the TOKEN from your bot use this site:https://discord.com/developers/applications
+
+
+
+VA IN CONFIG. JSON AND PUT THE NAME OF YOUR DATABASE AND PASSWORD IF YOU HAVE;
+
+THE PREFIX IF YOU WANT TO CHANGE;
+
+PLACE THE CATEGORIES, CHANNEL YOUR SERVER IN WHITELIST;
+
+IN ADM PLACE THE LOG CHANNELS;
+
+PLACE THE IMAGE OF YOUR SERVER, NAME, EMBED COLOR, AND AHUTOR.
